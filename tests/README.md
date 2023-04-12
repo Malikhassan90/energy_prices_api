@@ -24,4 +24,4 @@ In summary, the test script validates the functionality of the Energy Prices API
 
 
 ![flask_run](images/flask_run.png)
-![test_results_2](images/test_results_2.png)
+![test_results_2](images/test_results_1.png)
