@@ -15,7 +15,7 @@ test_gas_prices_date_range(client, _db): Similar to the previous test, this one 
 
 
 # Results:
-![Test Results](energy_prices_api/images/test_results_2.png)
+![Test Results](images/test_results_2.png)
 
 After running the tests using the pytest command, the results show that all five tests passed successfully, and a warning related to the deprecation of the SQLALCHEMY_COMMIT_ON_TEARDOWN configuration option in Flask-SQLAlchemy was captured. The warning suggests calling db.session.commit() directly instead of using the deprecated option.
 
