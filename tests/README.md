@@ -1,3 +1,6 @@
+# Github link:
+https://github.com/Malikhassan90/energy_prices_api.git
+
 # Energy Prices API Test Script README
 This README describes the test_script for the Energy Prices API, which includes a series of tests to ensure the proper functionality of the API endpoints related to Oil and Gas prices. The test script is designed to validate the behavior of the API when processing requests and handling database operations.
 ![interface](images/interface.png)
