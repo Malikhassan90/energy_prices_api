@@ -39,3 +39,5 @@ flask run
 
 This will start the Flask server. You can access the application by visiting http://127.0.0.1:5000/ in your browser. To access the API endpoints, visit http://127.0.0.1:5000/api/oil-prices and http://127.0.0.1:5000/api/gas-prices.
 
+# Github link:
+https://github.com/Malikhassan90/energy_prices_api.git
